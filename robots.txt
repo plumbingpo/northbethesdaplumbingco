@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northbethesdaplumbingco.com/sitemap.xml
